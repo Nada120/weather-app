@@ -1,6 +1,6 @@
 # weather_app ⛅📱
 
-Weather App was built usin flutter framework  
+Weather App was built using flutter framework  
 
 ## The Packages that were used in the project 📦🧰 :-  
 
